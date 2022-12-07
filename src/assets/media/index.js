@@ -1,0 +1,1 @@
+export {default as fidelizaLogo} from "./fidelizaLogo.png"

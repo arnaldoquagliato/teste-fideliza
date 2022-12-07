@@ -1,0 +1,35 @@
+{
+  "files": {
+    "app.js": "/teste-fideliza/static/js/app.443e5f4a.chunk.js",
+    "app.js.map": "/teste-fideliza/static/js/app.443e5f4a.chunk.js.map",
+    "runtime~app.js": "/teste-fideliza/static/js/runtime~app.71d78692.js",
+    "runtime~app.js.map": "/teste-fideliza/static/js/runtime~app.71d78692.js.map",
+    "static/js/2.0df041ed.chunk.js": "/teste-fideliza/static/js/2.0df041ed.chunk.js",
+    "static/js/2.0df041ed.chunk.js.map": "/teste-fideliza/static/js/2.0df041ed.chunk.js.map",
+    "fonts/AntDesign.ttf": "/teste-fideliza/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/teste-fideliza/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/teste-fideliza/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/teste-fideliza/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/teste-fideliza/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/teste-fideliza/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/teste-fideliza/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/teste-fideliza/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/teste-fideliza/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/teste-fideliza/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/teste-fideliza/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/teste-fideliza/./fonts/SimpleLineIcons.ttf",
+    "favicon-16.png": "/teste-fideliza/favicon-16.png",
+    "favicon-32.png": "/teste-fideliza/favicon-32.png",
+    "favicon.ico": "/teste-fideliza/favicon.ico",
+    "index.html": "/teste-fideliza/index.html",
+    "manifest.json": "/teste-fideliza/manifest.json",
+    "serve.json": "/teste-fideliza/serve.json",
+    "static/js/2.0df041ed.chunk.js.LICENSE.txt": "/teste-fideliza/static/js/2.0df041ed.chunk.js.LICENSE.txt",
+    "static/media/fidelizaLogo.png": "/teste-fideliza/static/media/fidelizaLogo.bc5fd976.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.71d78692.js",
+    "static/js/2.0df041ed.chunk.js",
+    "static/js/app.443e5f4a.chunk.js"
+  ]
+}
